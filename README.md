@@ -1,3 +1,15 @@
-This is where I'll keep necessar y files for themes or anything I work on.
+Hey.
 
-Don't take this as your own work please, thank you.
+First off, please don't take credit as your own work for these, i put effort into these.
+
+If you review them, credit me in the desv or link my youtube channel (https://Sub2MrAlex)
+
+Thanks, and hope you enjoy the themes!
+
+
+
+
+
+
+
+-Alex.
