@@ -69,7 +69,7 @@
 }
 @keyframes initialize-bg {
     0% {
-        content: "Welcome to Quiet";
+        content: "Welcome to Project:Aru";
         -webkit-transform: scale(.7);
         transform: scale(.7);
     }
@@ -89,7 +89,7 @@
         transform: scale(1);
     }
     29% {
-        content: "Welcome to Quiet";
+        content: "Welcome to Project:Aru";
         opacity: 0;
         -webkit-transform: scale(1.3);
         transform: scale(1.3);
@@ -144,7 +144,7 @@
 }
 @-webkit-keyframes initialize-bg {
     0% {
-        content: "Welcome to Quiet";
+        content: "Welcome to Project:Aru";
         -webkit-transform: scale(.7);
         transform: scale(.7);
     }
@@ -164,7 +164,7 @@
         transform: scale(1);
     }
     29% {
-        content: "Welcome to Quiet";
+        content: "Welcome to Project:Aru";
         opacity: 0;
         -webkit-transform: scale(1.3);
         transform: scale(1.3);
